@@ -2,7 +2,7 @@
 Author: Jose Pablo Murillo
 File: homework1
 Description: Use of if clause
-Last update: 29/11/2018
+Last update: 01/12/2018
 Python version 3.6.4
 """
 
